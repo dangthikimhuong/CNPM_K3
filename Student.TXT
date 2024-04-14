@@ -1,0 +1,7 @@
+Class Student{
+	public void Studen(){
+	} 
+	//........
+
+
+}

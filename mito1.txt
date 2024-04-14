@@ -1,2 +1,3 @@
 New repository
 tao file moi
+Studen i = new Student();
